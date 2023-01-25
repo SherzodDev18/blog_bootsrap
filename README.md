@@ -1,2 +1,2 @@
-# blog_bootsrap
-HTML BOOTSRAP CSS JS
+Assalomu alaykum men bu repozitoriyda bootsrap dan foydalnib dastur tuzdim.
+
